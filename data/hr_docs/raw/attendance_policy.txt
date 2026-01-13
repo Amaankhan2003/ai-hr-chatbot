@@ -1,0 +1,27 @@
+Policy Name: Attendance Policy
+
+Purpose:
+This policy defines the rules and expectations related to employee attendance and punctuality.
+
+Working Hours:
+The standard working hours are from 9:30 AM to 6:30 PM, Monday to Friday.
+Employees are expected to log in on time and complete their assigned working hours.
+
+Attendance Marking:
+Employees must mark their attendance using the official attendance system provided by the company.
+Attendance should be marked at the start and end of the workday.
+
+Late Arrival:
+Employees arriving more than 15 minutes late will be marked as late.
+Frequent late arrivals may result in disciplinary action.
+
+Absenteeism:
+An employee will be considered absent if attendance is not marked for the day and no prior approval is taken.
+Unapproved absence may lead to loss of pay.
+
+Regularization:
+Employees can regularize missed or incorrect attendance entries through the attendance portal.
+Regularization requests must be submitted within 3 working days.
+
+Compliance:
+Failure to comply with the attendance policy may lead to corrective action by HR.

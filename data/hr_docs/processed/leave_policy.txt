@@ -1,0 +1,25 @@
+Policy Name: Leave Policy
+
+Purpose:
+This policy outlines the types of leave available to employees and the rules for availing them.
+
+Casual Leave:
+Employees are entitled to 12 casual leaves per calendar year.
+Casual leave is intended for short-term personal needs.
+Unused casual leave cannot be carried forward to the next year.
+
+Sick Leave:
+Employees are entitled to 10 sick leaves per year.
+Sick leave can be used in case of illness or medical emergencies.
+Medical certificates may be required for sick leave exceeding 2 consecutive days.
+
+Earned Leave:
+Employees earn 15 earned leaves per year.
+Earned leave can be accumulated and carried forward up to a maximum of 45 days.
+
+Leave Application Process:
+All leave requests must be submitted through the official leave management system.
+Leave should be approved by the reporting manager before availing.
+
+Unapproved Leave:
+Leaves taken without approval may be treated as loss of pay.

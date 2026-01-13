@@ -1,0 +1,24 @@
+Policy Name: Work From Home Policy
+
+Purpose:
+This policy defines the guidelines for employees working remotely.
+
+Eligibility:
+Employees may opt for work from home based on project requirements and manager approval.
+Not all roles are eligible for work from home.
+
+WFH Duration:
+Employees are allowed up to 8 work from home days per month.
+Additional work from home days require special approval.
+
+Working Hours:
+Employees working from home must adhere to standard working hours.
+Availability during core business hours is mandatory.
+
+Performance Expectations:
+Employees are expected to maintain the same level of productivity while working remotely.
+Regular updates should be provided to the reporting manager.
+
+Security:
+Employees must ensure company data is accessed only through secure devices and networks.
+Sharing  information while working remotely is strictly prohibited.

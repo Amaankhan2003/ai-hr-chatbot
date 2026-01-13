@@ -1,0 +1,5 @@
+Supported HR Topics (Phase 1):
+- Leave Policy
+- Holiday Calendar
+- Work From Home Policy
+- Working Hours & Attendance
