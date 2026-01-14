@@ -81,3 +81,6 @@ If an answer is not found, it replies:
 - OpenAI GPT-4o-mini (LLM for answer generation)
 
 - HTML, CSS, JS (Web chat interface)
+
+## DEMO OF THE VIDEO
+https://drive.google.com/uc?id=14NEKJNRWu32Xah2AfvKU_AxQdAd9qDbd&export=download
